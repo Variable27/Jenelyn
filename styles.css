@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     box-shadow: var(--shadow-sm);
     z-index: 100;
+
 }
 
 .nav-links {
@@ -85,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--text-color);
     font-size: 1rem;
     font-weight: 500;
-    padding: var(--spacing-xs) var(--spacing-sm);
+    padding: var(--spacing-xd) var(--spacing-sm);
     border-radius: var(--border-radius-full);
     transition: all var(--transition-fast);
     position: relative;
